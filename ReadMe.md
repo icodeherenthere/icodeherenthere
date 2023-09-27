@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icodeherenthere&label=Profile%20views&color=0e75b6&style=flat" alt="icodeherenthere" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icodeherenthere" alt="icodeherenthere" /></a> </p>
 
 - 🔭 I’m currently working **on multiple full stack apps**
 
